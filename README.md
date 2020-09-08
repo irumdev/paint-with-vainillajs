@@ -4,4 +4,4 @@ Painting board made with VanillaJS.
 
 # 데모
 아래 링크에서 바로 확인이 가능합니다.  
-https://irumdev.github.io/paintjs/
+https://irumdev.github.io/paint-with-vainillajs/
